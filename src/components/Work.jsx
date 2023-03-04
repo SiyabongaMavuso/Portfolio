@@ -1,33 +1,40 @@
 import React  from 'react'
 import WorkItems  from './WorkItems'
 
-const data = [
+const data = [   
     {
-        year: 2020,
-        title: 'C# Developer',
-        duration: '3 years',
-        details: 'This is a web application system that requires manual cataloguing of different suppliers and saves all supplier’s details on to a centralized database. It is a web application based on Client-server architecture (3-Tier), C#, Tailwindcss, Bootstrap'
+        year: 2023,
+        title: 'Freelance React, Javascript, Vue&Vite Developer',
+        duration: '1 month',
+        details: 'Building Web applications using JavaScript, Html&CSS, Vue, Bootstrap, TailwindCss, Vite that are API backed for greater searches on the databases and that result in ease scalability.'
 
-    }, 
+    },
+    {
+        year: 2022,
+        title: 'School & Network Project',
+        duration: '1 years',
+        details: 'Uitenhage airport has been upgraded to allow for the use of full-sized aircrafts. Due to poor planning, they have not yet implemented the airport’s network infrastructure. ACSA (Uitenhage) has contacted our company to remedy the situation. So I and my team with network engineering backgrounds went to work in designing and implementing network infrastructure, creating LANs, WANS, VLANs, ACLS, NATs, VPNs, Switching, Routing and Wireless Essentials, Ethernet Switch Ports etc.',
+
+    },
+    {
+        year: 2022,
+        title: 'CyberOps Essentials',
+        duration: '1 month',
+        details: 'Worked with configuring firewalls and IDSs, implemented security software, diagnosed, and troubleshoot network related problems. It is an entry-level position with technical knowledge and industry certifications.'
+
+    },
     {
         year: 2022,
         title: 'ALX-T Data Analyst',
-        duration: '1 year',
+        duration: '3 months',
         details: 'Worked with a lot of data throughout the program to bring new and powerful insights into meeting business strategic needs and deliver value to customers'
 
-    }, 
+    },
     {
-        year: 2022,
-        title: 'CyberOps Associate',
-        duration: '1 year',
-        details: 'Worked with configuring firewalls and IDSs, implemented security software, diagnosed, and troubleshoot network related problems. It is an entry-level position with technical knowledge and industry certifications'
-
-    }, 
-    {
-        year: 2023,
-        title: 'React Developer',
+        year: 2020,
+        title: 'School & Software Development',
         duration: '3 years',
-        details: 'Movies searching web application backed by IMBD developer API. This application is create using JavaScript, Html&CSS. The API runs all the searches on the database and the results are shown to the web interface for the user'
+        details: 'Projects such as C#, Python, Html&Css',
 
     }
 
