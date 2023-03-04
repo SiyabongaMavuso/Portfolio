@@ -5,7 +5,7 @@ import {FaTwitter, FaInstagram, FaLinkedinIn, FaGithub} from 'react-icons/fa'
 const Main = () => {
   return (
     <div id='main'>
-        <img className='w-full h-screen object-cover object-left scale-x-[-1]' src='src\assets\kt.jpg' alt='' />
+        <img className='w-full h-screen object-cover object-left scale-x-[-1]' src='/assets/kt.jpg' alt='' />
         <div className='w-full h-screen absolute top-0 left-0 bg-white/50'>
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
                 <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>Welcome I am Siya M</h1>
@@ -13,10 +13,12 @@ const Main = () => {
                 <TypeAnimation
                     sequence={[
                     'Developer', // Types 'Dveloper'
-                    2000, // Waits 1s
+                    2000, // Waits 2s
                     'Coder', // Deletes 'Developer' and types 'Coder'
                     2000, // Waits 2s
                     'Digital CraftsMan', // Types 'Digital' without deleting 'Coder'
+                    2000,
+                    'Web3.0 Newcomer', // web3 newcomer
                     2000,
                     ]}
                     wrapper="div"
@@ -26,10 +28,19 @@ const Main = () => {
                 />
                 </h2>
                 <div className='flex justify-between pt-6 max-w-[200px] w-full'>
-                    <FaTwitter className='cursor-pointer' size={20}/>
-                    <FaInstagram  className='cursor-pointer' size={20}/>
-                    <FaLinkedinIn  className='cursor-pointer' size={20}/>
-                    <FaGithub  className='cursor-pointer' size={20}/>
+                    <a href='https://twitter.com/home'>
+                        <FaTwitter className='cursor-pointer' size={20}/>
+                    </a>
+                    <a href='https://www.linkedin.com/in/siyabonga-mavuso/'>
+                        <FaInstagram  className='cursor-pointer' size={20}/>
+                    </a>
+                    <a href='https://www.linkedin.com/in/siyabonga-mavuso/'>
+                        <FaLinkedinIn  className='cursor-pointer' size={20}/>
+                    </a>
+                    <a href='https://github.com/SiyabongaMavuso'>
+                        <FaGithub  className='cursor-pointer' size={20}/>
+                    </a>
+                     
                 </div>
             </div>
         </div>

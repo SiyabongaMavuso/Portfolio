@@ -9,7 +9,7 @@ const ProjectItems = ({img, title}) => {
                 {title}
             </h3>
             <p className='pb-4 pt-2 text-white text-center'>React Js</p>
-            <a href=''>
+            <a href='https://github.com/SiyabongaMavuso/C-_MVC_Avatar_webapp'>
                 <p className='text-center p-3 rounded-lg bg-white text-gray-700 font-bold cursor-pointer text-lg'>More Info</p>
             </a>
         </div>
