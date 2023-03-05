@@ -16,7 +16,7 @@ const Projects = () => {
         <div className='grid sm:grid-cols-2 gap-12'>
             <ProjectItems img={p1Img} title='Avatar APP' href={'https://github.com/SiyabongaMavuso/C-_MVC_Avatar_webapp'} language='C#, Javascript, Html&Css, MVC'/>   
             <ProjectItems img={p2Img} title='Movies APP' href={'https://github.com/SiyabongaMavuso/MovieSearchReactApp'} language='Javascript, Html&Css'/>   
-            <ProjectItems img={p3Img} title='ErrorRecording APP' href={'https://github.com/SiyabongaMavuso/error-application2'} language='C#, Windowsforms'/>   
+            <ProjectItems img={p3Img} title='ErrorRecording APP' href={'https://github.com/SiyabongaMavuso/error-recording-app'} language='C#, Windowsforms'/>   
             <ProjectItems img={p4Img} title='Suppliers APP' href={'https://github.com/SiyabongaMavuso/SupplierAssignment-3-Tier-ASP.Net'} language='C#, Asp.net, Tailwinds, Vue'/>   
             <ProjectItems img={p5Img} title='PE Airport Network Simulation' href={'https://livenmmuac-my.sharepoint.com/:f:/g/personal/s223095451_mandela_ac_za/EspaZlqqD1FLq5LH4WZmAuwBQHD9cT2ljjv_0lTZ5v6jtQ?e=d3mfKI'} language='Engineerd airport’s network infrastructure'/>   
         </div>
