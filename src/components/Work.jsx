@@ -4,16 +4,16 @@ import WorkItems  from './WorkItems'
 const data = [   
     {
         year: 2023,
-        title: 'Freelance React, Javascript, Vue&Vite Developer',
-        duration: '1 month',
-        details: 'Building Web applications using JavaScript, Html&CSS, Vue, Bootstrap, TailwindCss, Vite that are API backed for greater searches on the databases and that result in ease scalability.'
+        title: 'Sasol Secunda',
+        duration: '3 months',
+        details: 'As a brilliant technical clerk at a Sasol Plant in Secunda South Africa, facilitated seamless operations by managing documentation, data entry, and communication among departments. I ensured efficient coordination and support for plant activities.'
 
     },
     {
-        year: 2022,
-        title: 'School & Network Project',
-        duration: '1 years',
-        details: 'Uitenhage airport has been upgraded to allow for the use of full-sized aircrafts. Due to poor planning, they have not yet implemented the airport’s network infrastructure. ACSA (Uitenhage) has contacted our company to remedy the situation. So I and my team with network engineering backgrounds went to work in designing and implementing network infrastructure, creating LANs, WANS, VLANs, ACLS, NATs, VPNs, Switching, Routing and Wireless Essentials, Ethernet Switch Ports etc.',
+        year: 2023,
+        title: 'Johannesburg Centre for Software Engineering (JCSE)',
+        duration: '3 months',
+        details: 'As a novice who has achieved Microsoft ERP MB920 certification with Wits University, demonstrating fundamental proficiency in utilizing Microsoft Dynamics 365 applications for effectively managing business operations and resources.'
 
     },
     {
@@ -25,16 +25,9 @@ const data = [
     },
     {
         year: 2022,
-        title: 'ALX-T Data Analyst',
-        duration: '3 months',
-        details: 'Worked with a lot of data throughout the program to bring new and powerful insights into meeting business strategic needs and deliver value to customers'
-
-    },
-    {
-        year: 2020,
-        title: 'School & Software Development',
+        title: 'School & Network Project',
         duration: '3 years',
-        details: 'Projects such as C#, Python, Html&Css',
+        details: 'Uitenhage airport has been upgraded to allow for the use of full-sized aircrafts. Due to poor planning, they have not yet implemented the airport’s network infrastructure. ACSA (Uitenhage) has contacted our company to remedy the situation. So I and my team with network engineering backgrounds went to work in designing and implementing network infrastructure, creating LANs, WANS, VLANs, ACLS, NATs, VPNs, Switching, Routing and Wireless Essentials, Ethernet Switch Ports etc.',
 
     }
 
