@@ -3,10 +3,10 @@ import WorkItems  from './WorkItems'
 
 const data = [   
     {
-        year: 2023,
-        title: 'Sasol Secunda',
-        duration: '3 months',
-        details: 'As a brilliant technical clerk at a Sasol Plant in Secunda South Africa, facilitated seamless operations by managing documentation, data entry, and communication among departments. I ensured efficient coordination and support for plant activities.'
+        year: 2024,
+        title: 'L1 Network Engineer (FSO) HCL Tech',
+        duration: '7 months',
+        details: 'As an L1 Network Engineer, I implement, and maintain complex network infrastructure using RIP, OSPF, BGP, EIGRP, VLAN, STP, VPN, ACLs, and NAT. I configure switches, routers, firewalls, and load balancers, manage network security with TACACS, and DHCP Snooping, optimize performance with QoS and Cisco QOS, and monitor network health using Solarwinds, and Cisco Prime.'
 
     },
     {
