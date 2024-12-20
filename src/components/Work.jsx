@@ -6,7 +6,7 @@ const data = [
         year: 2024,
         title: 'Project underway',
         duration: '1 month',
-        details: 'Build a relativley small nextjs & .net microservice wepapp api, Where each service will hanlde a dedictaed fuction in our application. Also have a serivce with rest based api crud operation. and a services to handle search functionality. Dfferent services use thier own Databses, Postgres and Mongo DB used in both for exceptional functionality. With the benefit of deploying our service independtly, Git/Github is our chosen and utilized version control with the peace of mind that we make changes , deploy independently of the other service.'
+        details: 'Building a relativley small nextjs & .net microservice Wepapp API, Where each service will handle a dedicated function in our application. Also have a serivce with Rest-based API CRUD operation. And a service to handle search functionality. Dfferent services use thier own Databases, Postgres and MongoDB used in both for exceptional functionality. With the benefit of deploying our services independently, Git/Github is our chosen and utilized version control with the peace of mind that we make changes and deploy independently of the other services.'
 
     },
     {
